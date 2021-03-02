@@ -16,4 +16,4 @@ To dos:
 - [x] HTTP and HTTPS protocols
 - [x] W3C(World Wide Web Consortium), HTML and CSS
 
-![Screenshot of HomePage](https://raw.githubusercontent.com/rimpal1/InternetWorks/master/docs/Images/Screen%20Shot%202021-03-01%20at%203.50.51%20PM.png)
+![Screenshot of HomePage](/master/docs/Images/Screen%20Shot%202021-03-01%20at%203.50.51%20PM.png)
