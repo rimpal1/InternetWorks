@@ -16,4 +16,4 @@ To dos:
 - [x] HTTP and HTTPS protocols
 - [x] W3C(World Wide Web Consortium), HTML and CSS
 
-![Screenshot of HomePage](/Images/Screen Shot 2021-03-01 at 3.50.51 PM.png)
+![Screenshot of HomePage](docs/Images/Screen Shot 2021-03-01 at 3.50.51 PM.png)
